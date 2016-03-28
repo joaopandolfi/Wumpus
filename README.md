@@ -38,7 +38,11 @@ Implementação do mundo de wumpus
 #Executar
  > Dentro da pasta após compilar
 
- > Execute: java Main <arquivo_do_mapa>
+ > Execute: 
+
+```
+ java Main <arquivo_do_mapa>
+```
 
 #Arquivo de teste
  > mapa.txt
